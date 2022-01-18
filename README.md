@@ -1,2 +1,2 @@
 # armtemplates
-Arm templates for deplyment
+Arm templates for deployment
